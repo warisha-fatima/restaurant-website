@@ -14,18 +14,7 @@ A fully responsive restaurant website featuring a dynamic menu, category filters
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
-
-## Project Structure
-restaurant-website/
-├── index.html # Homepage
-├── about.html # About page
-├── menu.html # Menu page
-├── contact.html # Contact page
-├── style.css # Styles
-├── script.js # JavaScript
-├── README.md # Documentation
-    # Image files
+- JavaScript 
 
 ## How to Run
 
@@ -33,9 +22,4 @@ restaurant-website/
 2. Open `index.html` in your browser
 
 ## 🔗 Live Demo
-https://warisha-restaurant.netlify.app/
-
-## Connect with Me
-
-- GitHub: [https://github.com/warisha-fatima]
-- LinkedIn: [https://www.linkedin.com/in/warishafatima]    
+https://warisha-restaurant.netlify.app/  
